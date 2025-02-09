@@ -38,7 +38,7 @@ latest version of this module.
 
 import contextlib
 import errno
-import imp
+import importlib
 import io
 import locale
 import os
